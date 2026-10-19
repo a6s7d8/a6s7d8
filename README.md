@@ -41,8 +41,3 @@ Contributor to [NAHPU](https://github.com/nahpu/nahpu), a cross-platform digital
 
 Go · Python · PHP · Java · JavaScript · TypeScript · React · Next.js · Node.js · React Native · PostgreSQL · MySQL · Redis · AWS · Azure · Google Cloud · Docker · Terraform
 
-## Links
-
-- GitHub: https://github.com/YOURUSERNAME
-- LinkedIn: YOUR LINKEDIN URL
-- Portfolio: YOUR PORTFOLIO URL
