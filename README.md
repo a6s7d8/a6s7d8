@@ -1,16 +1,48 @@
-## Hi there 👋
+# Senior Software Engineer / CTO
 
-<!--
-**a6s7d8/a6s7d8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack, backend, cloud, mobile, DevOps, and applied AI engineer with experience designing, building, modernizing, and operating production systems.
 
-Here are some ideas to get you started:
+## Current Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Go
+- Next.js
+- React Native
+- PostgreSQL
+- Redis
+- Cloudflare R2
+- Tailwind CSS
+- GitHub Actions
+- Render
+
+## Areas of Experience
+
+- Full-stack and backend architecture
+- REST APIs and distributed systems
+- Mobile application development
+- Cloud infrastructure and CI/CD
+- AI / LLM integrations
+- Generative image and video workflows
+- E-commerce and payment integrations
+- Legacy application modernization
+
+## Current Work
+
+Currently working on enterprise-grade web and mobile platforms using Go, Next.js, React Native, PostgreSQL, Redis, and Cloudflare R2.
+
+Building AI-powered media workflows using generative image and video models, with media storage and delivery through Cloudflare R2.
+
+Integrating Shopify, Shop Pay, and Stripe for commerce and checkout workflows.
+
+## Open Source
+
+Contributor to [NAHPU](https://github.com/nahpu/nahpu), a cross-platform digital catalog application for natural-history collections.
+
+## Technologies
+
+Go · Python · PHP · Java · JavaScript · TypeScript · React · Next.js · Node.js · React Native · PostgreSQL · MySQL · Redis · AWS · Azure · Google Cloud · Docker · Terraform
+
+## Links
+
+- GitHub: https://github.com/YOURUSERNAME
+- LinkedIn: YOUR LINKEDIN URL
+- Portfolio: YOUR PORTFOLIO URL
