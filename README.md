@@ -4,15 +4,17 @@ Full-stack, backend, cloud, mobile, DevOps, and applied AI engineer with experie
 
 ## Current Stack
 
-- Go
-- Next.js
-- React Native
-- PostgreSQL
-- Redis
-- Cloudflare R2
-- Tailwind CSS
-- GitHub Actions
-- Render
+<p>
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" title="Go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" title="Next.js" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" title="React Native" alt="React Native" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" title="Redis" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" title="Cloudflare R2" alt="Cloudflare R2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="44" height="44" title="Render" alt="Render" />
+</p>
 
 ## Areas of Experience
 
@@ -39,5 +41,15 @@ Contributor to [NAHPU](https://github.com/nahpu/nahpu), a cross-platform digital
 
 ## Technologies
 
-Go · Python · PHP · Java · JavaScript · TypeScript · React · Next.js · Node.js · React Native · PostgreSQL · MySQL · Redis · AWS · Azure · Google Cloud · Docker · Terraform
+### Languages & Frameworks
+
+![Languages and Frameworks](https://skillicons.dev/icons?i=go,py,java,js,ts,php,swift,kotlin,react,nextjs,nodejs&perline=12)
+
+### Databases
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)
+
+### Cloud & DevOps
+
+![Cloud and DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,docker,terraform,cloudflare,githubactions)
 
