@@ -18,7 +18,7 @@ Full-stack, backend, cloud, mobile, DevOps, and applied AI engineer with experie
 
 ## Areas of Experience
 
-- Full-stack and backend architecture
+- Full-stack architecture
 - REST APIs and distributed systems
 - Mobile application development
 - Cloud infrastructure and CI/CD
